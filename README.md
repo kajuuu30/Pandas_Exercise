@@ -1,4 +1,3 @@
-# Pandas_Exercise
 
 # Pandas Exercises
 
@@ -18,6 +17,10 @@ This repository contains Jupyter notebooks with exercises on **Pandas**, specifi
    - Performing different types of joins (inner, outer, left, right)
    - Handling duplicate columns and conflicts in joined DataFrames
 
+## License
+This `README.md` will guide users on what each notebook contains, how to get started, and what they can expect to learn from these exercises. Let me know if you'd like any modifications or additional details.
+
+
 ## Prerequisites
 
 - **Python** (version 3.6 or later)
@@ -27,3 +30,6 @@ This repository contains Jupyter notebooks with exercises on **Pandas**, specifi
 To install the Pandas library, use the following command:
 ```bash
 pip install pandas
+
+
+
